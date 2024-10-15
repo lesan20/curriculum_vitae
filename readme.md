@@ -3,9 +3,9 @@
 <img src = "https://github.com/user-attachments/assets/b67d4f6b-d850-42a7-a9b0-46ba657f1ef6" width="200">
 
 ----
-# Content
+### Content
 - [проект 1](#afg)
-- Опыт работы
+- [Опыт работы](###Опытработы)
 
 ----
 
@@ -92,7 +92,6 @@ Machine Learning, Deep Learning, Time series, Computer Vision
       - вебинар ["Методы обнаружения аномалий в данных с целью предсказательного обслуживания"](https://exponenta.ru/events/metodi-obnaruzheniya-anomaliy-v-dannih-s-tselij-predskazatelnogo-obsluzhivaniya-v-industrii)
       - семинар ["Искусственный интеллект в промышленности"](https://exponenta.ru/events/ai-v-promishlennosti-1123)
       - семинар ["ИИ в промышленности 2022"](https://exponenta.ru/events/AI-v-promishlennosti-2022) 
-      - вебинар [""](https://exponenta.ru/events/metodi-surrogatnogo-modelirovaniya-slozhnih-dinamicheskih-sistem)
 
   - Подготовка демонстрационной установки Pose Estimation и демонстрация на мероприятиях компании
       - прошивка Jetson AGX Xavier
