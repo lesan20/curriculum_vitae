@@ -4,7 +4,7 @@
 
 ----
 ### Content
-- [проект 1](#afg)
+- [Навыки](####Техническиенавыки)
 - [Опыт работы](###Опытработы)
 
 ----
@@ -20,7 +20,7 @@ Machine Learning, Deep Learning, Time series, Computer Vision
 
 ----
 
-#### Технические навыки: 
+#### Технические навыки
 - Pyton, Pytorch, OpenCV
 - git, Docker, Linux (command line)
 - MATLAB: 
@@ -33,7 +33,7 @@ Machine Learning, Deep Learning, Time series, Computer Vision
       
 ----
 
-#### Знакома с инструментами:
+#### Работала с инструментами:
 (в порядке убывания)
 - Elasticsearch
     - о
