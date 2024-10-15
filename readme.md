@@ -192,7 +192,7 @@ AI: обработка Time Series, SVM, XGBoost trees, LSTM, Autoencoder, VAE.
     - сырые данные
     - спектральные мощности
     - компоненты детализации вейвлет-анализа, соответствующие ритмам ЭЭГ
-- На основе [статьи](https://www.mdpi.com/2076-3417/12/13/6297) "EEG Signals Based Internet Addiction Diagnosis Using Convolutional Neural Networks" реализована и обучена нейросеть
+- На основе [статьи](https://www.mdpi.com/2076-3417/12/13/6297) "EEG Signals Based Internet Addiction Diagnosis Using Convolutional Neural Networks" реализована и обучена нейросеть. Стек: Python, Keras.
 - Наилучшие результаты получились на основе вейвлет-анализа, относительно эталлонных выводов психолога.
 
 -------
