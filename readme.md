@@ -29,7 +29,7 @@ Machine Learning, Deep Learning, Time series, Computer Vision
 ----
 
 #### Технические навыки
-- Python, Pytorch, OpenCV
+- Python, Pytorch, OpenCV, Keras
 - git, Docker, Linux (command line)
 - MATLAB: 
     - Statistics and Machine Learning Toolbox
@@ -41,7 +41,7 @@ Machine Learning, Deep Learning, Time series, Computer Vision
       
 ----
 
-#### Работала с инструментами:
+#### Работала с инструментами: ( использовались в проектах) 
 (в порядке убывания)
 - Elasticsearch
     - о
@@ -189,13 +189,10 @@ AI: обработка Time Series, SVM, XGBoost trees, LSTM, Autoencoder, VAE.
 Роль в проекте: по данным выявить возможность обнаружения зависимости от соц. сети по сигналу ЭЭГ (результаты верифицировались путем сравнения с выводами психолога).
 
 - Формирование датасетов предобработанных данных:
-    - сырые данные
+    - сигналы после выделения значимого частотного диапазона
     - спектральные мощности
     - компоненты детализации вейвлет-анализа, соответствующие ритмам ЭЭГ
 - На основе [статьи](https://www.mdpi.com/2076-3417/12/13/6297) "EEG Signals Based Internet Addiction Diagnosis Using Convolutional Neural Networks" реализована и обучена нейросеть. Стек: Python, Keras.
 - Наилучшие результаты получились на основе вейвлет-анализа, относительно эталлонных выводов психолога.
 
 -------
-
-
------
