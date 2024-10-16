@@ -28,7 +28,7 @@
 Deep Learning, Time series, Computer Vision
 
 ----
-#### Технические навыки:
+#### Технические навыки
 - Python, Pytorch, OpenCV, Keras
 - git, Docker, Linux (command line)
 - MATLAB: 
@@ -48,7 +48,7 @@ Deep Learning, Time series, Computer Vision
 
 ----
 
-#### Ведение рабочих процессов: 
+#### Ведение рабочих процессов
 - Pycharm, VS, Git (github, gitlab)
 - Linux, Mac
 - Jira, Я.Трекер (настройка досок проектов, постановка и мониторинг задач команды)
