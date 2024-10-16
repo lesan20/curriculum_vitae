@@ -1,10 +1,11 @@
 ## Анастасия Лесничая 
-----
-#### Контакты
-telegram: @les_an
-[Linkendln](https://www.linkedin.com/in/anastasiia-lesnichaia/)
 
 <img src = "https://github.com/user-attachments/assets/b67d4f6b-d850-42a7-a9b0-46ba657f1ef6" width="200">
+
+----
+#### Контакты  
+- telegram: @les_an  
+- [Linkendln](https://www.linkedin.com/in/anastasiia-lesnichaia/)  
 
 ----
 #### Содержание
