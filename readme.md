@@ -38,6 +38,7 @@ Deep Learning, Time series, Computer Vision
     - Signal Processing Toolbox
     - App Designer
     - MATLAB Compiler
+- АРХИТЕКТУРЫ
 - Также использовались в проектах: 
     - [Elasticsearch & Grafana, FastAPI & Datalens & PostgresSQL, Figma](#Руководитель-направления)  
     - [Flask](#Проект-Автоматизация-бонитировки-скота)   
