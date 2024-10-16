@@ -80,7 +80,7 @@ Deep Learning, Time series, Computer Vision
 
 
 -----
-**Python программист в команде фреймворка LiberTEM**
+**Python Developer в команде фреймворка LiberTEM**
 
 *Ноябрь 2019 — Май 2020*   
 *Научно-исследовательский центр Juelich Forschungzentrum, Germany*   
