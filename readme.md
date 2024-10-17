@@ -39,7 +39,17 @@ Deep Learning, Time series, Computer Vision
     - Signal Processing Toolbox
     - App Designer
     - MATLAB Compiler
-- АРХИТЕКТУРЫ
+- Архитектуры:
+    - CV:
+        - на практике:
+            - классификация: Resnet, EfficientNet
+            - детекция: YOLO, Faster - RCNN
+            - сегментация: Mask - RCNN, DeepLab 
+        - по учебным задачам: AE, Posenet, VGG, U-Net, ViT
+    - Time series:
+        - на практике: вариации LSTM, 1D CNN, LSTM - AE / VAE
+        - по учебным задачам: Transformers
+    - 
 - Также использовались в проектах: 
     - [Elasticsearch & Grafana, FastAPI & Datalens & PostgresSQL, Figma](#Руководитель-направления)  
     - [Flask](#Проект-Автоматизация-бонитировки-скота)   
