@@ -1,0 +1,63 @@
+\documentclass[a4paper]{moderncv}
+\usepackage[T2A]{fontenc}
+\usepackage[hidelinks]{hyperref}
+\usepackage[a4paper, scale = 0.6, left=1cm, right=1cm, top=1cm, bottom=1cm]{geometry}
+\moderncvtheme[green]{classic}
+
+\firstname{Анастасия}
+\familyname{Лесничая}
+\title{Резюме}
+
+\email{lesnichaya.anastasiya@mail.ru}
+\social[linkedin]{anastasiia-lesnichaia}
+
+
+\setlength{\hintscolumnwidth}{2.5cm}
+\photo{image_cv.jpg}
+
+\begin{document}
+\maketitle
+\vspace{-1em}
+
+\section{Детализированное резюме}
+\cvitem{}{\href{https://github.com/lesan20/curriculum_vitae/blob/main/readme.md}{Ссылка}}
+
+\section{Персональные данные}
+\cvitem{Город}{Москва}
+\cvitem{Занятость}{полная, гибкий график}
+
+\section{Технические навыки}
+\cvlistitem{Python, Numpy, Pandas, Matplotlib, Scipy}
+\cvlistitem{Pytorch, Scikit-learn, OpenCV, MATLAB}
+\cvlistitem{git, Docker, Linux (command line)}
+\cvlistitem{Архитектуры: Resnet, YOLO, Faster/Mask - RCNN, DeepLab, LSTM, AE, VAE}
+\cvlistitem{Базовое владение: Elasticsearch, FastAPI, PostgresSQL, Flask, Grafana, Datalens}
+
+\section{Опыт работы}
+\cventry{Ноябрь 2020 — Май 2024}{Machine Learning Engineer}{ЦИТМ Экспонента (ООО РИТМ)}{}{}{- Python, Numpy, Pandas, Matplotlib, Pytorch, Scikit-learn, OpenCV, Docker, MATLAB, git, Linux\\
+- Руководитель направления "Мониторинг и предсказательное обслуживание технического оборудования"\\
+- Обработка и анализ данных, разработка и внедрение алгоритмов машинного обучения для различных приложений\\
+- Участие в планировании и управлении проектами, включая контроль выполнения задач и сроков\\
+- Обучение заказчиков, разработка и ведение вебинаров, конференций}
+
+\cventry{Ноябрь 2019 — Май 2020}{Python Developer}{Научно-исследовательский центр Juelich Forschungzentrum}{Германия}{}{- Python, NumPy, Pytest, Numba, MATLAB\\
+- Участие в разработке высокопроизводительных алгоритмов для птихографии и оптимизация их работы в режиме реального времени на распределённых системах во время сканирования образцов}
+
+\cventry{2015 - 2019}{Научный сотрудник}{Лаборатория "Фотоника и ИК техника"}{факультет Биомедицинской техники, МГТУ им. Баумана}{}{
+- MATLAB, R, Excel\\
+- Участие в разработке алгоритмов обработки и анализа экспериментальных данных\\
+- Разработка и проверка научных гипотез\\
+- Разработка алгоритмов обработки и анализа экспериментальных данных\\
+- Планирование и проведение экспериментов in vivo, in vitro, ex vivo\\
+- Создание научных статей, формирование заявок и отчетных документов по грантам\\
+- Представление результатов на международных конференциях}
+
+\section{Образование}
+\cventry{2014-2021}{Бакалавр и Магистр}{МГТУ им. Н.Э. Баумана}{}{Биомедицинская техника}{}
+\cventry{2018-2022}{Master of Biomedical Systems Engineering}{RWTH Aachen University}{Germany}{Electrical Engineering, Information Technology and Computer Engineering}{Обучение на английском языке}
+
+\section{Владение языками}
+\cvlanguage{Английский}{Advanced}{}
+\cvlanguage{Немецкий}{Elementarstufe}{}
+
+\end{document}
