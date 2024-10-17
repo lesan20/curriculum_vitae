@@ -28,7 +28,9 @@ Deep Learning, Time series, Computer Vision
 
 ----
 #### Технические навыки
-- Python, Pytorch, OpenCV, Keras
+- Python
+- Numpy, Pandas, Matplotlib, Scipy
+- Pytorch, Scikit-learn, OpenCV
 - git, Docker, Linux (command line)
 - MATLAB: 
     - Statistics and Machine Learning Toolbox
