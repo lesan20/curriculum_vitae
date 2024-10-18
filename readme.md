@@ -216,7 +216,7 @@ RWTH Aachen University, Germany
   - Сформировала и провела презентации продукта клиентам ([пример](https://exponenta.ru/events/engee-monitoring?utm_source=website&utm_medium=engee_event&utm_campaign=25.04_veb&clckid=3d6bf8af))
 
 #### TeamLead команды разработки модуля Engee.Мониторинг
-Руководство процессом разработки модуля Engee.Мониторинг и управление командой из 4 разработчиков.  
+Руководство процессом разработки модуля Engee.Мониторинг и управление командой из 3 разработчиков.  
 Engee.Мониторинг - Модуль для разработки систем мониторинга технического состояния оборудования в составе среды разработки Engee (совместим с MATLAB, Python).  
   
 Стек: Python, Elasticsearch, Grafana, Docker, sklearn, Pytorch  
