@@ -47,7 +47,7 @@ Deep Learning, Time series, Computer Vision
             - классификация: Resnet, EfficientNet
             - детекция: YOLO, Faster - RCNN
             - сегментация: Mask - RCNN, DeepLab
-        - по учебным задачам: AE, Posenet, VGG, U-Net, ViT, GAN
+        - по учебным задачам: AE, Posenet, VGG, U-Net, ViT, GAN, FlowNet
     - Time series:
         - на практике: вариации LSTM, 1D CNN, LSTM - AE
         - по учебным задачам: VAE, Transformers
